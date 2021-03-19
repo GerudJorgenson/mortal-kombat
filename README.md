@@ -2,7 +2,7 @@
 ## Выполнил проект - Егор Сергеевич
 ### Технологии:
 -HTML
--CSS
--Normalize
--JQuery
--Fancybox (JQuery)
+- CSS
+- Normalize
+- JQuery
+- Fancybox (JQuery)
